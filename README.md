@@ -15,11 +15,11 @@ Each file has the name in the format TH(game_number * 10)_(file_number), where g
 
 ### These games dialogue pages are present:
 
-- All main story games, starting from Touhou 6, EXCEPT Touhou 12 main game sceinario, as its dialogue pages are formatted differently and need a different parser (the extras for this game have the right format and are present)
-- Fighting games (7.5, 12.3, 13.5, 14.5, 15.5). Touhou 10.5 and everything except Sanae scenario in 12.3 is not present for the same reason as TH12 main game. I honestly regret adding these games because they have very many files with very few dialogue lines, so it's probably not worth downloading all of them.
+- All main story games, starting from Touhou 6
+- Fighting games (7.5, 12.3, 13.5, 14.5, 15.5). I honestly regret adding these games because they have very many files with very few dialogue lines, so it's probably not worth downloading all of them.
 - Spinoffs: 12.5, 12.8, 14.3, 16.5, 17.5. Touhou 9.5 is not included because of the absence of actual dialogue in in.
 
 ### These are not present:
-- Everything stated as "not included" above
-- PC98 games
-- Bohemian Archive in Japanese Red (particualrly Aya's interviews with different characters)
+- Touhou 9.5 - nothing to use
+- PC98 games - can probably be used (Except Touhou 1 that doesn't have any dialogue)
+- Touhou Bunka printworks (Bohemian Archive in Japanese Red and Alternative Facts in Eastern Utopia) can be included (particualrly Aya's interviews with different characters)
