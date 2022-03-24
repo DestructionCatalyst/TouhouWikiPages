@@ -2,7 +2,7 @@
 
 This repository includes the pages from Touhou Wiki (<https://en.touhouwiki.net/>) that contain character dialogues. They had to be manually downloaded and saved here because the wiki has a protection from bots, so it's not possible to download them autamatically straight from the source. These files are used by my Touhou wiki parser that extracts the dialogues from them to create the dataset for my Touhou Dialogue Generator.
 
-The pages uploaded here were downoaded on 11.07.2021. If some content on the wiki is updated, this will not affect this repository unless I manually update it.
+The pages (except 17.5 ones) uploaded here were downoaded on 11.07.2021. 17.5 pages were downloaded on 24.03.2022. If some content on the wiki is updated, this will not affect this repository unless I manually update it.
 
 
 ## DISCLAIMER
